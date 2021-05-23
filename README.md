@@ -1,21 +1,11 @@
-#EXTINF:-1, Kurt Cobain: Montage of Heck www.achoAPPS.com
-https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
 #EXTINF:-1, BLOOD IN BLOOD OUT/ VATOS LACOS www.achoAPPS.com
 http://www.deadlyblogger.com/NewRelease/blood.mp4
 #EXTINF:-1, MORGAN 2017 www.achoAPPS.com
 https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=jB%2Fe9NhbBvIApvusiUW1dTsE0C1FJa4s85dUu7zpQdY%3D&docid=19139fa71f76c4627bc4a633d5f80bd46&rev=1
 #EXTINF:-1, OUIJA 2016 www.achoAPPS.com
 https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=aExoVm%2Fa%2BUnbEO5sd1VU%2FK9TzsSGD1O%2BV3EG7JhuLfY%3D&docid=1f46c87d90a534a34a3c7bf6e78bc8f90&rev=1
-#EXTINF:-1, PIXEL www.achoAPPS.com
-https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
 #EXTINF:-1, UNA PAREJA DISPAREJA www.achoAPPS.com
 https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=L1xcLeZaaC0RnNroupeOyrwLfKOcDoILl9pJ%2FnxSR%2FU%3D&docid=155d4e833091b46e2af22eec8652e629e&rev=1
-#EXTINF:-1, EL MATADOR www.achoAPPS.com
-https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
-#EXTINF:-1, ELLOS SIEMPRE REGRESAN www.achoAPPS.com
-https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
-#EXTINF:-1, ELLA EN MI CUERPO Y EL EN EL MIO www.achoAPPS.com
-https://ia600801.us.archive.org/35/items/EllaEnMiCuerpoYElEnElMio/ella%20en%20mi%20cuerpo%20y%20el%20en%20el%20mio.mp4
 
 #EXTINF:-1,SP | Drama | A Fantastic Woman 2017 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/18874.mkv 
 #EXTINF:-1,SP | Drama | Wonderstruck http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/20803.mkv 
