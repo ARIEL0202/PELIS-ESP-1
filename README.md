@@ -1,3 +1,30 @@
+#EXTINF:0 tvg-id="ext" group-title="CINE",CINEAR  22.4
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE",CINEMA PLUS
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE",Cascara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:0 tvg-id="HBO.bg" group-title="CINE",HBO
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:0 tvg-id="HBO2.ar" group-title="CINE",HBO 2
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CINE",HBO Plus
+http://168.232.168.242:8000/play/a012/index.m3u8
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CINE",HBO Family
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE",HBO Extreme
+http://iptvmedia.live:8080/FM10008/ee54fb4b/285192
+#EXTINF:0 tvg-id="HBOSignature.ar" group-title="CINE",HBO Signature
+http://iptvmedia.live:8080/FM10008/ee54fb4b/91989
+#EXTINF:0 tvg-id="Max.br" group-title="CINE",HBO Mundi
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+#EXTINF:0 tvg-id="Maxup.br" group-title="CINE",HBO pop
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="CINE",Golden
+http://168.232.168.242:8000/play/a039/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE",Golden +
+http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="DEPORTE",SSIPTV ARG SPORTS
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTE",SSIPTV ARG SPORTS 2
