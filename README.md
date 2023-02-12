@@ -1,33 +1,16 @@
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo 
 https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia 
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos 
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno 
 https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro 
-https://archive.org/download/qwerty_202001/qwerty.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2 
-https://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3 
-https://archive.org/download/qwerty3/qwerty3.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name 
-https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 
-https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles   
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox   
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII   
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina   
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR       
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR
 http://archive.org/download/0_20200403/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR  EL AÑO DE LA ELECCION
 http://ia801205.us.archive.org/4/items/7H3.PU/7H3.PU963.313C7I0N.Y349-ES-360.mp4
@@ -35,28 +18,7 @@ http://ia801205.us.archive.org/4/items/7H3.PU/7H3.PU963.313C7I0N.Y349-ES-360.mp4
 http://archive.org/download/0_20200403_202004/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",8 MILLAS
 http://archive.org/download/imagen-1_202005/4.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AD ASTRA 2019
-http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/2.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 1
-http://archive.org/download/mio53_yopmail_1/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 2
-http://archive.org/download/mio53_yopmail_2/2.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 3
-http://archive.org/download/mio53_yopmail_3/3.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 5
-http://archive.org/download/mio53_yopmail_5/5.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 6
-http://archive.org/download/mio53_yopmail_6/6.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 7
-http://archive.org/download/mio53_yopmail_7/7.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 8
-http://archive.org/download/mio53_yopmail_8/8.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AKIRA
-http://archive.org/download/0_20200417_202004/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AL DIABLO CON EL DIABLO
-http://archive.org/download/0trece/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALADIN
 http://archive.org/download/01_20200613_202006/01.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALICIA EN EL PAÍS DE LAS MARAVILLAS LIVE ACTION
@@ -67,36 +29,7 @@ http://ia801409.us.archive.org/33/items/ziduyaliri_mail-register_002/002.mp4
 http://archive.org/download/4l7t4/4l7T4.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMENAZA EN LO PROFUNDO
 http://archive.org/download/6_20200607_20200607_1857/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMENAZA EN LO PROFUNDO
-http://ia801400.us.archive.org/7/items/000_20200402/07.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMERICAN PIE 1
-http://archive.org/download/s-4-ngr-3-p-0-rs-4-ngr-3-dr-4-m-4/4M3R1C4NP13C0M3D14.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMERICAN PIE 2
-http://archive.org/download/s-4-ngr-3-p-0-rs-4-ngr-3-dr-4-m-4/4M3R1C4NP132C0M3D14.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMERICAN PIE PRESENTA GIRLS RULES 
-http://archive.org/download/apgr-8fugjch/Apgr8fugjch.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMORES PERROS
-http://archive.org/download/1_20200420_20200420_1906/am/1.avi
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANABELLE 2 La Creación
-http://archive.org/download/fb-img-15899986005641994/74m4r4.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANABELLE 3  
-http://archive.org/download/00100rrt/020000511RE.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANACONDA
-http://archive.org/download/screenshot20200220141308/m4rd34m0r35.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANGELES DE CHARLIE 
-http://ia801506.us.archive.org/27/items/0_20200218_20200218/300.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANGRY BIRDS
-http://archive.org/download/img20200409153743/5UB1D046R1BR1R5.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANGRY BIRDS 2
-http://archive.org/download/img20200409153743/5UB1D046R1BR152.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIMAL CROSSING PELICULA
-http://archive.org/download/0_20200422/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIMALES FANTASTICOS LOS CRIMENES DE GRIMDERWODL
-http://archive.org/download/icon1_20190813/12.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIMALES FANTASTICOS Y EN DONDE ENCONTRARLOS
-http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/AFantasticosDEncontrarlosbrspa%20%5Bwww.newpct1.com%5D654848946487468498449489.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIMALES FANTASTICOS Y EN DONDE ENCONTRARLOS (OPC2)
-http://archive.org/download/icon1_20190813/11.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIQUILACION
 http://archive.org/download/C4B4LL0D33GU3RR4444/AN1QU1L1S100N.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANTMAN
@@ -118,23 +51,6 @@ http://archive.org/download/w-17-fl-1-x/4r70fF1gh71ng.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ARTEMIS FOWL: EL MUNDO SUBTERRANEO
 http://archive.org/download/4-rt-3-m-1-sf-0-wl-3-lmund-0-subt-3-rr-4-n-3-oestren-01-nf-4-nt-1-l-2020/4RT3M1SF0WL3LMUND0SUBT3RR4N3OESTREN01NF4NT1L2020.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/ORIGINS.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/02%20The%20Ezio%20Collection.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x3 
-https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/03.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x4 
-https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/Embers%20-%20The%20Ezio%20Collection.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x5
-https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/Historia%20completa%20de%20Ezio%20Auditore%20%2802%2C%20Brotherhood%2C%20Revelations%20y%20Embers%29.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x6
-https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/La%20Hermandad%20-%20The%20Ezio%20Collection.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x7 
-https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/Revelations%20-%20The%20Ezio%20Collection.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ASTERIX EL SECRETO DE LA POCION MAGICA
-http://archive.org/download/img20200409153743/5UB1D04X73R1X.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATAQUE A LOS TITANES LA PELÍCULA
 http://archive.org/download/screenshot-20200613-153216/my4p0r73.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATAQUE A LOS TITANES LA PELÍCULA 2
@@ -307,27 +223,9 @@ http://archive.org/download/cultura-ciudadana.-valores-y-practicas_202002/ch4rl1
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHICAS PESADAS
 http://ia801403.us.archive.org/14/items/ciejrkr/ciejrkr.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO ocp1
-http://archive.org/download/img-20200520-wa-0066/Mu%C3%B1eco%201.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO
-http://archive.org/download/img-20200520-wa-0024/mu%C3%B1eco%202.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO 2
-http://archive.org/download/img-20200520-wa-0024/chucky%203.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO 3
-http://archive.org/download/img-20200520-wa-0024/la%20nv%20mu%C3%B1ec.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO 4
-http://archive.org/download/img-20200520-wa-0024/el%20hijo%20mu%C3%B1ec.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO 5
-http://archive.org/download/img-20200520-wa-0024/culto%20mu%C3%B1eco.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO 6
-http://archive.org/download/img-20200520-wa-0024/la%20maldicion%20mu%C3%B1ec.mp4
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CINDY LA REGIA
 http://ia801507.us.archive.org/7/items/000_20200223_20200223_0200/03.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CINDY LA REGIA OPCION 2
-http://ia601402.us.archive.org/13/items/000_20200227/07.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CINDY LA REGIA OPCION 3
-http://archive.org/download/1.-mp-4/1.MP4.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CLICK PERDIENDO EL CONTROL 
 http://archive.org/download/ThdndjhgKdjxbxh/thdndjhg%20kdjxbxh.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Cloverfield el mounstro
@@ -2762,6 +2660,104 @@ http://vod.tuxchannel.tv:80/peliculas/720/spiral%20from%20the%20book%20of%20saw%
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",cyborg x
 http://tux-vod.dynu.com:80/peliculas/720/cyborg%20x.mkv
 
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",trollhunters
+https://archive.org/download/trollhunters-el-despertar-de-los-titanes/Trollhunters%20El%20despertar%20de%20los%20titanes.mp4
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia 
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos 
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro 
+https://archive.org/download/qwerty_202001/qwerty.mkv
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2 
+https://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3 
+https://archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles   
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name 
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AD ASTRA 2019
+http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/2.mp4
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII   
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AKIRA
+http://archive.org/download/0_20200417_202004/1.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AL DIABLO CON EL DIABLO
+http://archive.org/download/0trece/3.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMORES PERROS
+http://archive.org/download/1_20200420_20200420_1906/am/1.avi
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANABELLE 2 La Creación
+http://archive.org/download/fb-img-15899986005641994/74m4r4.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANABELLE 3  
+http://archive.org/download/00100rrt/020000511RE.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANACONDA
+http://archive.org/download/screenshot20200220141308/m4rd34m0r35.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANGELES DE CHARLIE 
+http://ia801506.us.archive.org/27/items/0_20200218_20200218/300.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANGRY BIRDS
+http://archive.org/download/img20200409153743/5UB1D046R1BR1R5.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANGRY BIRDS 2
+http://archive.org/download/img20200409153743/5UB1D046R1BR152.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIMAL CROSSING PELICULA
+http://archive.org/download/0_20200422/1.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIMALES FANTASTICOS LOS CRIMENES DE GRIMDERWODL
+http://archive.org/download/icon1_20190813/12.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIMALES FANTASTICOS Y EN DONDE ENCONTRARLOS
+http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/AFantasticosDEncontrarlosbrspa%20%5Bwww.newpct1.com%5D654848946487468498449489.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIMALES FANTASTICOS Y EN DONDE ENCONTRARLOS (OPC2)
+http://archive.org/download/icon1_20190813/11.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ASTERIX EL SECRETO DE LA POCION MAGICA
+http://archive.org/download/img20200409153743/5UB1D04X73R1X.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/ORIGINS.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x2 
+https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/02%20The%20Ezio%20Collection.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x3 
+https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/03.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x4 
+https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/Embers%20-%20The%20Ezio%20Collection.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x5
+https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/Historia%20completa%20de%20Ezio%20Auditore%20%2802%2C%20Brotherhood%2C%20Revelations%20y%20Embers%29.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x6
+https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/La%20Hermandad%20-%20The%20Ezio%20Collection.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x7 
+https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/Revelations%20-%20The%20Ezio%20Collection.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO ocp1
+http://archive.org/download/img-20200520-wa-0066/Mu%C3%B1eco%201.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO
+http://archive.org/download/img-20200520-wa-0024/mu%C3%B1eco%202.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO 2
+http://archive.org/download/img-20200520-wa-0024/chucky%203.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO 3
+http://archive.org/download/img-20200520-wa-0024/la%20nv%20mu%C3%B1ec.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO 4
+http://archive.org/download/img-20200520-wa-0024/el%20hijo%20mu%C3%B1ec.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO 5
+http://archive.org/download/img-20200520-wa-0024/culto%20mu%C3%B1eco.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO 6
+http://archive.org/download/img-20200520-wa-0024/la%20maldicion%20mu%C3%B1ec.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 1
+http://archive.org/download/mio53_yopmail_1/1.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 2
+http://archive.org/download/mio53_yopmail_2/2.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 3
+http://archive.org/download/mio53_yopmail_3/3.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 5
+http://archive.org/download/mio53_yopmail_5/5.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 6
+http://archive.org/download/mio53_yopmail_6/6.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 7
+http://archive.org/download/mio53_yopmail_7/7.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 8
+http://archive.org/download/mio53_yopmail_8/8.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious 1
 http://ww1.youmovieapp.online:80/stream/1080/DypXGOoGH5eUXyI.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious 2
@@ -2780,6 +2776,3 @@ http://ww1.youmovieapp.online:80/stream/720/VmIwCYAQOJEAfGi.mp4
 http://ww1.youmovieapp.online:80/stream/720/5ZXo9VVRZ929CCm.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious hobbs & sha
 http://ww1.youmovieapp.online:80/stream/720/MmFVncEVC39sQVq.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",trollhunters
-https://archive.org/download/trollhunters-el-despertar-de-los-titanes/Trollhunters%20El%20despertar%20de%20los%20titanes.mp4
