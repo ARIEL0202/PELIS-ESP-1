@@ -27,7 +27,7 @@ https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina   
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR       
 http://archive.org/download/0_20200403/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR  EL AÑO DE LA ELECCION
 http://ia801205.us.archive.org/4/items/7H3.PU/7H3.PU963.313C7I0N.Y349-ES-360.mp4
