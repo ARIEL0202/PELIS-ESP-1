@@ -1,14 +1,5 @@
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo 
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
-
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno 
-https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox   
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina   
-https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR
 http://archive.org/download/0_20200403/2.mp4
@@ -16,17 +7,9 @@ http://archive.org/download/0_20200403/2.mp4
 http://ia801205.us.archive.org/4/items/7H3.PU/7H3.PU963.313C7I0N.Y349-ES-360.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR EL INICIO
 http://archive.org/download/0_20200403_202004/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",8 MILLAS
-http://archive.org/download/imagen-1_202005/4.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALADIN
-http://archive.org/download/01_20200613_202006/01.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALICIA EN EL PAÍS DE LAS MARAVILLAS LIVE ACTION
 http://archive.org/download/2fc-07f-7872cf-8a-100d-544b-609239a-80f/4l1gc1jc43n3ljp415d3l45jm4r4v1ll45.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALIEN WARFARE 
-http://ia801409.us.archive.org/33/items/ziduyaliri_mail-register_002/002.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALITA (BATTLE ANGEL: LA ÚLTIMA GUERRERA)
-http://archive.org/download/4l7t4/4l7T4.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMENAZA EN LO PROFUNDO
 http://archive.org/download/6_20200607_20200607_1857/1.mp4
 
@@ -38,27 +21,13 @@ http://archive.org/download/correoicfes2016_gmail_42/Ant1.mp4
 http://archive.org/download/4-nt-5/4NT5.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",APOCALISPSIS
 http://ia601505.us.archive.org/20/items/000_20200317_20200317_1332/06.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",APRENDICES FUERA DE LINEA
-http://archive.org/download/ap_20201026/ApR3nDC7U3Ra.avi
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",APUESTA FINAL
 http://archive.org/download/cd07a054-fd47-4897-a7c3-9e1dd27214ed/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",APUESTA MAESTRA
 http://archive.org/download/am20xmlapo520iwmq21padat3/AM20xmLApo520IWmq21padat3.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",AQUAMAN 2018
 http://archive.org/download/4QU4M4N000_201904/4QU4M4N000.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Art Of Fighting
-http://archive.org/download/w-17-fl-1-x/4r70fF1gh71ng.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ARTEMIS FOWL: EL MUNDO SUBTERRANEO
-http://archive.org/download/4-rt-3-m-1-sf-0-wl-3-lmund-0-subt-3-rr-4-n-3-oestren-01-nf-4-nt-1-l-2020/4RT3M1SF0WL3LMUND0SUBT3RR4N3OESTREN01NF4NT1L2020.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATAQUE A LOS TITANES LA PELÍCULA
-http://archive.org/download/screenshot-20200613-153216/my4p0r73.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATAQUE A LOS TITANES LA PELÍCULA 2
-http://archive.org/download/screenshot-20200613-153216/my4p0r741.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATAQUE A LOS TITANES LA PELÍCULA 3
-http://archive.org/download/screenshot-20200613-153216/my4p0rte.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATLÁNTICO
-http://archive.org/download/009_20200823/011.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Atlantis 
 http://archive.org/download/atlas_202009/atlas.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATRACCIÓN MORTAL 
@@ -2727,6 +2696,29 @@ https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/Hi
 https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/La%20Hermandad%20-%20The%20Ezio%20Collection.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Assassins Creed SAGA 1x7 
 https://archive.org/download/03_20200831_20200831/4ssass1n%27s%20Cr33d%20SAGA/Revelations%20-%20The%20Ezio%20Collection.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATAQUE A LOS TITANES LA PELÍCULA
+http://archive.org/download/screenshot-20200613-153216/my4p0r73.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATAQUE A LOS TITANES LA PELÍCULA 2
+http://archive.org/download/screenshot-20200613-153216/my4p0r741.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATAQUE A LOS TITANES LA PELÍCULA 3
+http://archive.org/download/screenshot-20200613-153216/my4p0rte.mp4
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo 
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina   
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno 
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",8 MILLAS
+http://archive.org/download/imagen-1_202005/4.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALIEN WARFARE 
+http://ia801409.us.archive.org/33/items/ziduyaliri_mail-register_002/002.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALITA (BATTLE ANGEL: LA ÚLTIMA GUERRERA)
+http://archive.org/download/4l7t4/4l7T4.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Art Of Fighting
+http://archive.org/download/w-17-fl-1-x/4r70fF1gh71ng.mp4
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO ocp1
 http://archive.org/download/img-20200520-wa-0066/Mu%C3%B1eco%201.mp4
