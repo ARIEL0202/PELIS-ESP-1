@@ -65,39 +65,6 @@ http://ia601508.us.archive.org/8/items/th_20200603/B%20-%20La%20M%20del%20Fantas
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BATMAN VS TORTUGAS NINJAS
 http://archive.org/download/img20200405155021hdr/5UB1D0B47M4NVZ70R7U645.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%201%20-%20Barro%20y%20Sangre.ia.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x2
-https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%201%20-%20Barro%20y%20Sangre.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x3
-https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%202%20-%20Amigos%20de%20Altos%20Vuelos.ia.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x4
-https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%202%20-%20Amigos%20de%20Altos%20Vuelos.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x5
-https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%203%20-%20Avanti%20savoia%21.ia.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x6
-https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%203%20-%20Avanti%20savoia%21.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x7
-https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%204%20-%20El%20mensajero%20-%20Espa%C3%B1ol.ia.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x8
-https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%204%20-%20El%20mensajero%20-%20Espa%C3%B1ol.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x9
-https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%205%20-%20Nada%20est%C3%A1%20escrito.ia.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x10
-https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%205%20-%20Nada%20est%C3%A1%20escrito.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Bayonetta Destino Sangriento
-http://archive.org/download/w-17-fl-1-x/B4y0n377D3571n054ngr13n70.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Bayonetta SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/B4y0n3t4a%20SAGA/01.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Bayonetta SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/B4y0n3t4a%20SAGA/02.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BEAVIS Y BUTTHEAD RECORREN AMERICA
-http://ia601503.us.archive.org/31/items/0_20200420/1.ia.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BEETLEJUICE EL SUPER FANTASMA 
-http://archive.org/download/xosuc_tempcloud_1/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BEETLEJUICE EL SUPER FANTASMA (OPC2)
-http://archive.org/download/screenshot-20200508-210057/L47720B3336JU1C3.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BICHOS UNA AVENTURA EN MINIATURA
 http://archive.org/download/vid20200409wa0000_202004/M1D1PL0M4.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BIENVENIDOS AL AYER
@@ -109,14 +76,6 @@ http://www.mediafire.com/file/jdl6qrf63tgy5yl/3103R0LY.mp4/file
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Biohazard 4D Executer
 http://archive.org/download/w-17-fl-1-x/B10h4z4rd4D3x3cu73r.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BioShock The Collection SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/01.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BioShock The Collection SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/02.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BioShock The Collection SAGA 1x3 
-https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/Infinite.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BioShock The Collection SAGA 1x4 
-https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/Infinite%20Pante%C3%B3n%20Marino%20DLC.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Birds Box A Ciegas
 http://archive.org/download/15901804994373000928996083377015/B.boxxxx.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BLADE RUNNER
@@ -2715,6 +2674,42 @@ https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 http://archive.org/download/img20200405155021hdr/5UB1D0B4MB12.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BAMBI CLASICO DE DISNEY
 http://archive.org/download/img20200405155021hdr/5UB1D0BJ4MB1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%201%20-%20Barro%20y%20Sangre.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x2
+https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%201%20-%20Barro%20y%20Sangre.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x3
+https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%202%20-%20Amigos%20de%20Altos%20Vuelos.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x4
+https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%202%20-%20Amigos%20de%20Altos%20Vuelos.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x5
+https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%203%20-%20Avanti%20savoia%21.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x6
+https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%203%20-%20Avanti%20savoia%21.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x7
+https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%204%20-%20El%20mensajero%20-%20Espa%C3%B1ol.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x8
+https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%204%20-%20El%20mensajero%20-%20Espa%C3%B1ol.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x9
+https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%205%20-%20Nada%20est%C3%A1%20escrito.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Battlefield SAGA 1x10
+https://archive.org/download/03_20200831_20200831/B4ttl3f13ld%20SAGA/Battlefield%201%20-%20Historias%20de%20Guerra/Historia%20de%20Guerra%205%20-%20Nada%20est%C3%A1%20escrito.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Bayonetta Destino Sangriento
+http://archive.org/download/w-17-fl-1-x/B4y0n377D3571n054ngr13n70.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Bayonetta SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/B4y0n3t4a%20SAGA/01.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Bayonetta SAGA 1x2 
+https://archive.org/download/03_20200831_20200831/B4y0n3t4a%20SAGA/02.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BioShock The Collection SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/01.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BioShock The Collection SAGA 1x2 
+https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/02.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BioShock The Collection SAGA 1x3 
+https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/Infinite.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BioShock The Collection SAGA 1x4 
+https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/Infinite%20Pante%C3%B3n%20Marino%20DLC.mp4
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
