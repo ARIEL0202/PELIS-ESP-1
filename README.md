@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox   
-https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR
 http://archive.org/download/0_20200403/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR  EL AÑO DE LA ELECCION
@@ -36,8 +33,6 @@ http://archive.org/download/009_20200823/012.mp4
 http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/3.avi
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATRAPAME SI PUEDES
 http://archive.org/download/whats-app-image-2020-07-10-at-22.20.25/474P4M.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AUSTIN POWERS THE SPY WHO SHAGGED ME 
-http://archive.org/download/killerscorpion_01_hotmail_2/Sub1d0_p4r4_5tr34ming_A85/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",AVATAR
 http://archive.org/download/dovacateg_maillink_1/wiimc/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",AVENGERS 3ND GAME 2019 OPC2 
@@ -57,10 +52,6 @@ http://archive.org/download/FGDSKK/2.avi
 http://ia601503.us.archive.org/14/items/0_20200407_20200407_1605/01.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BAD BOYS for life 
 http://archive.org/download/FGDSKK/2.avi
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BAMBI 2 CLASICOS DE DISNEY
-http://archive.org/download/img20200405155021hdr/5UB1D0B4MB12.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BAMBI CLASICO DE DISNEY
-http://archive.org/download/img20200405155021hdr/5UB1D0BJ4MB1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BATMAN (1989)
 http://archive.org/download/20200516-215149/B4T17.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BATMAN EL CABALLERO DE LA NOCHE ASIENDE
@@ -2718,7 +2709,14 @@ http://archive.org/download/4l7t4/4l7T4.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Art Of Fighting
 http://archive.org/download/w-17-fl-1-x/4r70fF1gh71ng.mp4
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox   
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BAMBI 2 CLASICOS DE DISNEY
+http://archive.org/download/img20200405155021hdr/5UB1D0B4MB12.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BAMBI CLASICO DE DISNEY
+http://archive.org/download/img20200405155021hdr/5UB1D0BJ4MB1.mp4
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHUKY EL MUÑECO DIABÓLICO ocp1
 http://archive.org/download/img-20200520-wa-0066/Mu%C3%B1eco%201.mp4
@@ -2768,3 +2766,4 @@ http://ww1.youmovieapp.online:80/stream/720/VmIwCYAQOJEAfGi.mp4
 http://ww1.youmovieapp.online:80/stream/720/5ZXo9VVRZ929CCm.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious hobbs & sha
 http://ww1.youmovieapp.online:80/stream/720/MmFVncEVC39sQVq.mp4
+
