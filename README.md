@@ -46,12 +46,8 @@ http://archive.org/download/4QU4M4N000_201904/4V3N1D4%20CR0083RF1L11.mp4
 http://ia601508.us.archive.org/23/items/00_20200409/03.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",AVIONES DE DISNEY
 http://archive.org/download/img20200405155021hdr/5UB1D04V10N35.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BAD BOYS F0R LIFE
-http://archive.org/download/FGDSKK/2.avi
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BAD BOYS F0R LIFE OPC2
 http://ia601503.us.archive.org/14/items/0_20200407_20200407_1605/01.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BAD BOYS for life 
-http://archive.org/download/FGDSKK/2.avi
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BATMAN (1989)
 http://archive.org/download/20200516-215149/B4T17.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BATMAN EL CABALLERO DE LA NOCHE ASIENDE
@@ -67,17 +63,9 @@ http://archive.org/download/img20200405155021hdr/5UB1D0B47M4NVZ70R7U645.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BICHOS UNA AVENTURA EN MINIATURA
 http://archive.org/download/vid20200409wa0000_202004/M1D1PL0M4.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BIENVENIDOS AL AYER
-http://www.mediafire.com/file/6bss2rypxrh741b/B13NV3N1D05.mp4/file
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BILLY Y MANDY CONTRA EL COCO
-http://archive.org/download/img20200311185856/b1llm4dyc0n7r43lc0dr1pl471n0.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Bio Broly (DRAGON BALL Z)
-http://www.mediafire.com/file/jdl6qrf63tgy5yl/3103R0LY.mp4/file
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Biohazard 4D Executer
 http://archive.org/download/w-17-fl-1-x/B10h4z4rd4D3x3cu73r.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Birds Box A Ciegas
-http://archive.org/download/15901804994373000928996083377015/B.boxxxx.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BLADE RUNNER
 http://archive.org/download/1_20200402_20200402_2232/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BLEACH
@@ -2710,6 +2698,9 @@ https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20
 https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/Infinite.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BioShock The Collection SAGA 1x4 
 https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/Infinite%20Pante%C3%B3n%20Marino%20DLC.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Birds Box A Ciegas
+http://archive.org/download/15901804994373000928996083377015/B.boxxxx.mp4
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
