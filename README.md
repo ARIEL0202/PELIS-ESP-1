@@ -80,10 +80,6 @@ http://ia601401.us.archive.org/16/items/screenshot-20201024-094855/R3cu3rd0sD3r0
 http://archive.org/download/3-ntr-3-n-4-nd-04-p-4-p-41-nf-4-n-71-l/B0B3%24P0NJ4L4P31ICUL411NF4NT1L.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BOHEMIAN RHAPSODY
 http://archive.org/download/b-0-h-3-m-14-nrh-4-p-0-dy/B0H3M14NRH4P%240DY.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BOKU NO HERO ACADEMIA PELICULA 1 FUTARI NO HERO
-http://archive.org/download/bbkk4loi5tg/bbkk4loi5tg.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BORUTO LA PELICULA
-http://archive.org/download/00_20200213/10000000_528973151259980_161391264527286272_n.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BREAKING BAD  EL CAMINO
 http://archive.org/download/1_20191012_201910/Sub1d0_p4r4_str34m1ng_A85/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BRIGHT
