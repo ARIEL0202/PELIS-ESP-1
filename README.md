@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR
 http://archive.org/download/0_20200403/2.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR  EL AÑO DE LA ELECCION
-http://ia801205.us.archive.org/4/items/7H3.PU/7H3.PU963.313C7I0N.Y349-ES-360.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR EL INICIO
 http://archive.org/download/0_20200403_202004/1.mp4
 
