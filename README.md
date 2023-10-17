@@ -111,24 +111,6 @@ http://archive.org/download/screenshot-20200328-194059/svrR35UB13ND0C4RS2.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CARS 3
 http://archive.org/download/screenshot-20200328-194059/rfsR35UB13ND0C4RS3.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Castlevania Lords of Shadow SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/C4stl3v4n14%20L0rds%200f%20Sh4d0w%20SAGA/Historia.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Castlevania Lords of Shadow SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/C4stl3v4n14%20L0rds%200f%20Sh4d0w%20SAGA/Mirror%20of%20Fate.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CENICIENTA (CLASICA)
-http://archive.org/download/7cbacdaecc-91b-396cf-30cd-4528bfc-0c-4/btctC3n1c13n74.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CENICIENTA 3
-http://archive.org/download/7cbacdaecc-91b-396cf-30cd-4528bfc-0c-4/ujygC3n1c13nt43.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHARLIE Y LA FABRICA DE CHOCOLATE
-http://archive.org/download/cultura-ciudadana.-valores-y-practicas_202002/ch4rl13yl4f4br1c4.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CHICAS PESADAS
-http://ia801403.us.archive.org/14/items/ciejrkr/ciejrkr.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CINDY LA REGIA
-http://ia801507.us.archive.org/7/items/000_20200223_20200223_0200/03.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CLICK PERDIENDO EL CONTROL 
-http://archive.org/download/ThdndjhgKdjxbxh/thdndjhg%20kdjxbxh.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Cloverfield el mounstro
 http://archive.org/download/img-20200515-wa-0007/extrteres%203.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Cloverfield one
@@ -159,16 +141,10 @@ http://ia801401.us.archive.org/2/items/110_20200320/ca/110.mp4
 http://archive.org/download/0_20200421_20200421_2358/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CREED 2
 http://archive.org/download/0_20200421_20200421_2358/2.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CREPUSCULO AMANECER PARTE 1
-http://archive.org/download/codm_2020-05-17_121454/Lobos%201.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CREPUSCULO AMANECER PARTE 2
-http://archive.org/download/codm_2020-05-17_121454/Lobos%202.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CRONICAS DE SPIDERWICK
 http://archive.org/download/grid-plus-1595018593259/M4R10B3LLY.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CYBORG   JEAN CLAUDE VAN DAMME
 http://archive.org/download/w-17-fl-1-x-1/Cyb0rgJ34nCl4ud3V4nD4mm3.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DANIEL EL TRAVIESO
-http://archive.org/download/02_20200612/02.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Dantes Inferno
 http://archive.org/download/w-17-fl-1-x/D4n7351nf3rn0.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",DE CAZA CON PAPÁ
@@ -178,12 +154,6 @@ http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/8.avi
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",DE LADRON A POLICIA
 http://archive.org/download/07_20191209/hoiho/02.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Dead Space SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/D34d%20Sp4c3%20SAGA/01.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Dead Space SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/D34d%20Sp4c3%20SAGA/02.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Dead Space SAGA 1x3 
-https://archive.org/download/03_20200831_20200831/D34d%20Sp4c3%20SAGA/03.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",DEADPOOL 1 
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",deathstroke
@@ -203,25 +173,10 @@ http://archive.org/download/img-20200510-wa-0017/calidad%205.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",DESTRUCCION LOS ANGELES
 http://ia801509.us.archive.org/29/items/ziduyaliri_mail-register_08/08.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Devil May Cry SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/D3v1l%20M49%20Cr9%20SAGA/01.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Devil May Cry SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/D3v1l%20M49%20Cr9%20SAGA/02.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Devil May Cry SAGA 1x3 
-https://archive.org/download/03_20200831_20200831/D3v1l%20M49%20Cr9%20SAGA/03.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Devil May Cry SAGA 1x4 
-https://archive.org/download/03_20200831_20200831/D3v1l%20M49%20Cr9%20SAGA/04.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Devil May Cry SAGA 1x5
-https://archive.org/download/03_20200831_20200831/D3v1l%20M49%20Cr9%20SAGA/05.mp4
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",DIAMANTE DE SANGRE
 http://archive.org/download/icon1_20190813/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",DINOSAURIOS DE DISNEY
 http://archive.org/download/img20200213wa0012/fkHsun1d0b0y.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONDE ESTA EL FANTASMA 1
-http://archive.org/download/erling44_198f_ymail3_Cubo/8.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONDE ESTA EL FANTASMA 2
-http://archive.org/download/erling44_198f_ymail3_Cubo/9.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",DOOM LA PUERTA DEL INFIERNO 
 http://archive.org/download/DNMPRTINSoldadin/DNMPRTIN-%20soldadin.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",DORA EN LA CIUDAD PERDIDA
@@ -2693,8 +2648,38 @@ https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BioShock The Collection SAGA 1x4 
 https://archive.org/download/03_20200831_20200831/B10Sh0ck%20The%20Collection%20SAGA/Infinite%20Pante%C3%B3n%20Marino%20DLC.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Birds Box A Ciegas
-http://archive.org/download/15901804994373000928996083377015/B.boxxxx.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Devil May Cry SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/D3v1l%20M49%20Cr9%20SAGA/01.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Devil May Cry SAGA 1x2 
+https://archive.org/download/03_20200831_20200831/D3v1l%20M49%20Cr9%20SAGA/02.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Devil May Cry SAGA 1x3 
+https://archive.org/download/03_20200831_20200831/D3v1l%20M49%20Cr9%20SAGA/03.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Devil May Cry SAGA 1x4 
+https://archive.org/download/03_20200831_20200831/D3v1l%20M49%20Cr9%20SAGA/04.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Devil May Cry SAGA 1x5
+https://archive.org/download/03_20200831_20200831/D3v1l%20M49%20Cr9%20SAGA/05.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Dead Space SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/D34d%20Sp4c3%20SAGA/01.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Dead Space SAGA 1x2 
+https://archive.org/download/03_20200831_20200831/D34d%20Sp4c3%20SAGA/02.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Dead Space SAGA 1x3 
+https://archive.org/download/03_20200831_20200831/D34d%20Sp4c3%20SAGA/03.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CLICK PERDIENDO EL CONTROL 
+http://archive.org/download/ThdndjhgKdjxbxh/thdndjhg%20kdjxbxh.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Castlevania Lords of Shadow SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/C4stl3v4n14%20L0rds%200f%20Sh4d0w%20SAGA/Historia.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Castlevania Lords of Shadow SAGA 1x2 
+https://archive.org/download/03_20200831_20200831/C4stl3v4n14%20L0rds%200f%20Sh4d0w%20SAGA/Mirror%20of%20Fate.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CENICIENTA (CLASICA)
+http://archive.org/download/7cbacdaecc-91b-396cf-30cd-4528bfc-0c-4/btctC3n1c13n74.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CENICIENTA 3
+http://archive.org/download/7cbacdaecc-91b-396cf-30cd-4528bfc-0c-4/ujygC3n1c13nt43.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CINDY LA REGIA
+http://ia801507.us.archive.org/7/items/000_20200223_20200223_0200/03.mp4
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
