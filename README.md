@@ -1,11 +1,11 @@
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR  
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS", 12 HORAS PARA SOBREVIVIR  
 http://archive.org/download/0_20200403/2.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",12 HORAS PARA SOBREVIVIR EL INICIO
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS", 12 HORAS PARA SOBREVIVIR EL INICIO
 http://archive.org/download/0_20200403_202004/1.mp4       
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALICIA EN EL PAÍS DE LAS MARAVILLAS LIVE ACTION
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS", ALICIA EN EL PAÍS DE LAS MARAVILLAS LIVE ACTION
 http://archive.org/download/2fc-07f-7872cf-8a-100d-544b-609239a-80f/4l1gc1jc43n3ljp415d3l45jm4r4v1ll45.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMENAZA EN LO PROFUNDO
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS", AMENAZA EN LO PROFUNDO
 http://archive.org/download/6_20200607_20200607_1857/1.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIQUILACION
