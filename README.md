@@ -2505,9 +2505,6 @@ https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",el guerrero samurai
 http://vod.tuxchannel.tv:80/peliculas/720/ruroni%20kenshin%20sai%20shusho%20the%20beginning%202021.mkv
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", la purga infinita hd sub
-http://hispanotv.net:8080/movie/SMARTTVC5/DCkfFqwjUq/44337.mp4
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",la calle del terror 2
 http://vod.tuxchannel.tv:80/peliculas/720/fear%20street%20part%20two%201978%202021.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", espiral
@@ -2712,23 +2709,3 @@ http://archive.org/download/mio53_yopmail_6/6.mp4
 http://archive.org/download/mio53_yopmail_7/7.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 8
 http://archive.org/download/mio53_yopmail_8/8.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious 1
-http://ww1.youmovieapp.online:80/stream/1080/DypXGOoGH5eUXyI.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious 2
-http://ww1.youmovieapp.online:80/stream/720/dzvtTEsqG7safVz.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious 3
-http://ww1.youmovieapp.online:80/stream/720/XkUgcq7UDdWpxrf.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", fast furious 4
-http://ww1.youmovieapp.online:80/stream/720/Kz5hIL8CAyZwwPJ.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious 5
-http://ww1.youmovieapp.online:80/stream/720/pHfLj7KQJQSQkJG.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious 6
-http://ww1.youmovieapp.online:80/stream/1080/giW4YQA6etGNzcA.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious 7
-http://ww1.youmovieapp.online:80/stream/720/VmIwCYAQOJEAfGi.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious 8
-http://ww1.youmovieapp.online:80/stream/720/5ZXo9VVRZ929CCm.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",fast furious hobbs & sha
-http://ww1.youmovieapp.online:80/stream/720/MmFVncEVC39sQVq.mp4
-
