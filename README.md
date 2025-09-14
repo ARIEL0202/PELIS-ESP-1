@@ -1,36 +1,18 @@
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", 12 HORAS PARA SOBREVIVIR  
-http://archive.org/download/0_20200403/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", 12 HORAS PARA SOBREVIVIR EL INICIO
 http://archive.org/download/0_20200403_202004/1.mp4       
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", ALICIA EN EL PAÍS DE LAS MARAVILLAS LIVE ACTION
 http://archive.org/download/2fc-07f-7872cf-8a-100d-544b-609239a-80f/4l1gc1jc43n3ljp415d3l45jm4r4v1ll45.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", AMENAZA EN LO PROFUNDO
 http://archive.org/download/6_20200607_20200607_1857/1.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANIQUILACION
-http://archive.org/download/C4B4LL0D33GU3RR4444/AN1QU1L1S100N.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANTMAN
-http://archive.org/download/correoicfes2016_gmail_42/Ant1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANTZ HORMIGUITAS 
-http://archive.org/download/4-nt-5/4NT5.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",APOCALISPSIS
-http://ia601505.us.archive.org/20/items/000_20200317_20200317_1332/06.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",APUESTA FINAL
 http://archive.org/download/cd07a054-fd47-4897-a7c3-9e1dd27214ed/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",APUESTA MAESTRA
-http://archive.org/download/am20xmlapo520iwmq21padat3/AM20xmLApo520IWmq21padat3.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AQUAMAN 2018
-http://archive.org/download/4QU4M4N000_201904/4QU4M4N000.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Atlantis 
 http://archive.org/download/atlas_202009/atlas.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATRACCIÓN MORTAL 
 http://archive.org/download/009_20200823/012.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATRACCIÓN PELIGROSA
-http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/3.avi
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATRAPAME SI PUEDES
-http://archive.org/download/whats-app-image-2020-07-10-at-22.20.25/474P4M.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",AVATAR
 http://archive.org/download/dovacateg_maillink_1/wiimc/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",AVENGERS 3ND GAME 2019 OPC2 
@@ -2709,3 +2691,18 @@ http://archive.org/download/mio53_yopmail_6/6.mp4
 http://archive.org/download/mio53_yopmail_7/7.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",AGENTE 007 JAMES BOND 8
 http://archive.org/download/mio53_yopmail_8/8.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANTMAN
+http://archive.org/download/correoicfes2016_gmail_42/Ant1.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANTZ HORMIGUITAS 
+http://archive.org/download/4-nt-5/4NT5.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",APOCALISPSIS
+http://ia601505.us.archive.org/20/items/000_20200317_20200317_1332/06.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",APUESTA MAESTRA
+http://archive.org/download/am20xmlapo520iwmq21padat3/AM20xmLApo520IWmq21padat3.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AQUAMAN 2018
+http://archive.org/download/4QU4M4N000_201904/4QU4M4N000.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATRACCIÓN PELIGROSA
+http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/3.avi
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATRAPAME SI PUEDES
+http://archive.org/download/whats-app-image-2020-07-10-at-22.20.25/474P4M.mp4
